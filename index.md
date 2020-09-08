@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/fitsumlegesse/test01/edit/gh-pages/index.md) [click](www.google.com)to maintain and preview the content for your website in Markdown files. MarkUp 
+You can use the [editor on GitHub](https://github.com/fitsumlegesse/test01/edit/gh-pages/index.md) [click]((https://github.com/fitsumlegesse/test01/edit/gh-pages/index.md))to maintain and preview the content for your website in Markdown files. MarkUp 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
